@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Prata&family=Ysabeau+SC:wght@300&display=swap");
+
+.intro-container {
+  width: 93%;
+  border: 1px solid white;
+  border-radius: 8px;
+  margin-top: 100px;
+  margin-left: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+}
+.web-logo {
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 20%;
+}
+.intro-head {
+  color: white;
+  font-size: 20px;
+  padding-left: 30px;
+  font-family: "Prata", serif;
+  padding-right: 20px;
+}
+
+.intro-head-1 {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.intro-para {
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 19px;
+}
+.special {
+  color: orange;
+}
+.last-align {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.special-one {
+  color: orange;
+  padding-left: 20px;
+  text-align: center;
+}
+@media screen and (max-width: 800px) {
+  .web-logo {
+    height: 500px;
+    width: 350px;
+    margin-left: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20%;
+  }
+  .intro-container {
+    width: 90%;
+    border: 1px solid white;
+    border-radius: 8px;
+    margin-top: 100px;
+    margin-left: 30px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 40px;
+  }
+  .special {
+    color: orange;
+    font-size: 30px;
+  }
+}

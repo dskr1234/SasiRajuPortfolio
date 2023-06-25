@@ -1,0 +1,63 @@
+.welcome-head {
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+  }
+  
+  .pass-container {
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  .pass-box {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid white;
+  
+    margin: auto;
+  }
+  .label {
+    color: white;
+    font-size: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+  }
+  .input-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  .input-box {
+    height: 40px;
+    width: 300px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding-left: 15px;
+    font-size: 20px;
+    border-radius: 5px;
+  }
+  .button {
+    height: 50px;
+    width: 150px;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    border: 1px solid white;
+    font-size: 15px;
+    border-radius: 5px;
+  }
+  .but-container {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .text {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+  }
+  

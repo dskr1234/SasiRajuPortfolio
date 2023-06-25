@@ -1,0 +1,36 @@
+.about-head {
+    color: white;
+    padding-top: 30px;
+    padding-left: 30px;
+  }
+  .about-container {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: auto;
+  }
+  .details-head {
+    color: white;
+    padding-left: 30px;
+  }
+  .details-para {
+    color: white;
+    padding-left: 30px;
+    font-size: 24px;
+  }
+  .align {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 20px;
+  }
+  .key-field {
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 19px;
+  }
+  
