@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SasiRajuPortfolio/static/css/main.7f39188c.css",
+    "main.js": "/SasiRajuPortfolio/static/js/main.cfda11e0.js",
+    "index.html": "/SasiRajuPortfolio/index.html",
+    "main.7f39188c.css.map": "/SasiRajuPortfolio/static/css/main.7f39188c.css.map",
+    "main.cfda11e0.js.map": "/SasiRajuPortfolio/static/js/main.cfda11e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f39188c.css",
+    "static/js/main.cfda11e0.js"
+  ]
+}
